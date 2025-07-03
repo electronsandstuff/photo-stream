@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
     <generator uri="https://github.com/waschinski/photo-stream">Photo Stream</generator>
-    <link href="https://electronsandstuff.github.io/photo-stream/feed.xml" rel="self" type="application/atom+xml" />
-    <link href="https://electronsandstuff.github.io/photo-stream" rel="alternate" type="text/html"/>
-    <updated>2025-07-03T07:44:32+00:00</updated>
-    <id>2025-07-03T07:44:32+00:00</id>
+    <link href="https://photos.chris-pierce.com/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://photos.chris-pierce.com" rel="alternate" type="text/html"/>
+    <updated>2025-07-03T07:51:33+00:00</updated>
+    <id>2025-07-03T07:51:33+00:00</id>
     <title type="html"><![CDATA[Christopher Pierce Photos]]></title>
     <subtitle><![CDATA[@electronsandstuff's photo stream.]]></subtitle>
     <author>
@@ -14,11 +14,11 @@
     </author>
     <entry>
       <title type="html">carrie-cronan-veoOmmy9VH0-unsplash</title>
-      <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-veoommy9vh0-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-veoOmmy9VH0-unsplash" />
+      <link href="https://photos.chris-pierce.com/carrie-cronan-veoommy9vh0-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-veoOmmy9VH0-unsplash" />
       <published></published>
       <updated></updated>
-      <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-veoommy9vh0-unsplash/</id>
-      <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-veoommy9vh0-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" alt="carrie-cronan-veoOmmy9VH0-unsplash" /></a></figure>
+      <id>https://photos.chris-pierce.com/carrie-cronan-veoommy9vh0-unsplash/</id>
+      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-veoommy9vh0-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" alt="carrie-cronan-veoOmmy9VH0-unsplash" /></a></figure>
       ]]>
     </content>
     <author>
@@ -26,16 +26,16 @@
       <email>contact@chris-pierce.com</email>
       <uri>https://chris-pierce.com</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" />
-      <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" />
+      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-veoOmmy9VH0-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">carrie-cronan-uw9aaHMWp5k-unsplash</title>
-        <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-uw9aahmwp5k-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-uw9aaHMWp5k-unsplash" />
+        <link href="https://photos.chris-pierce.com/carrie-cronan-uw9aahmwp5k-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-uw9aaHMWp5k-unsplash" />
         <published></published>
         <updated></updated>
-        <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-uw9aahmwp5k-unsplash/</id>
-        <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-uw9aahmwp5k-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" alt="carrie-cronan-uw9aaHMWp5k-unsplash" /></a></figure>
+        <id>https://photos.chris-pierce.com/carrie-cronan-uw9aahmwp5k-unsplash/</id>
+        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-uw9aahmwp5k-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" alt="carrie-cronan-uw9aaHMWp5k-unsplash" /></a></figure>
         ]]>
       </content>
       <author>
@@ -43,16 +43,16 @@
         <email>contact@chris-pierce.com</email>
         <uri>https://chris-pierce.com</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" />
-        <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" />
+        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-uw9aaHMWp5k-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">carrie-cronan-t4lmDpX1fbY-unsplash</title>
-          <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-t4lmdpx1fby-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-t4lmDpX1fbY-unsplash" />
+          <link href="https://photos.chris-pierce.com/carrie-cronan-t4lmdpx1fby-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-t4lmDpX1fbY-unsplash" />
           <published></published>
           <updated></updated>
-          <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-t4lmdpx1fby-unsplash/</id>
-          <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-t4lmdpx1fby-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" alt="carrie-cronan-t4lmDpX1fbY-unsplash" /></a></figure>
+          <id>https://photos.chris-pierce.com/carrie-cronan-t4lmdpx1fby-unsplash/</id>
+          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-t4lmdpx1fby-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" alt="carrie-cronan-t4lmDpX1fbY-unsplash" /></a></figure>
           ]]>
         </content>
         <author>
@@ -60,16 +60,16 @@
           <email>contact@chris-pierce.com</email>
           <uri>https://chris-pierce.com</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" />
-          <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" />
+          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-t4lmDpX1fbY-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">carrie-cronan-qvk_MpO4Bfk-unsplash</title>
-            <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-qvk-mpo4bfk-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-qvk_MpO4Bfk-unsplash" />
+            <link href="https://photos.chris-pierce.com/carrie-cronan-qvk-mpo4bfk-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-qvk_MpO4Bfk-unsplash" />
             <published></published>
             <updated></updated>
-            <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-qvk-mpo4bfk-unsplash/</id>
-            <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-qvk-mpo4bfk-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" alt="carrie-cronan-qvk_MpO4Bfk-unsplash" /></a></figure>
+            <id>https://photos.chris-pierce.com/carrie-cronan-qvk-mpo4bfk-unsplash/</id>
+            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-qvk-mpo4bfk-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" alt="carrie-cronan-qvk_MpO4Bfk-unsplash" /></a></figure>
             ]]>
           </content>
           <author>
@@ -77,16 +77,16 @@
             <email>contact@chris-pierce.com</email>
             <uri>https://chris-pierce.com</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" />
-            <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" />
+            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-qvk_MpO4Bfk-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">carrie-cronan-iqN7Auqq72I-unsplash</title>
-              <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-iqn7auqq72i-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-iqN7Auqq72I-unsplash" />
+              <link href="https://photos.chris-pierce.com/carrie-cronan-iqn7auqq72i-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-iqN7Auqq72I-unsplash" />
               <published></published>
               <updated></updated>
-              <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-iqn7auqq72i-unsplash/</id>
-              <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-iqn7auqq72i-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" alt="carrie-cronan-iqN7Auqq72I-unsplash" /></a></figure>
+              <id>https://photos.chris-pierce.com/carrie-cronan-iqn7auqq72i-unsplash/</id>
+              <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-iqn7auqq72i-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" alt="carrie-cronan-iqN7Auqq72I-unsplash" /></a></figure>
               ]]>
             </content>
             <author>
@@ -94,16 +94,16 @@
               <email>contact@chris-pierce.com</email>
               <uri>https://chris-pierce.com</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" />
-              <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" />
+              <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-iqN7Auqq72I-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">carrie-cronan-gxUqWTqp0n4-unsplash</title>
-                <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-gxuqwtqp0n4-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-gxUqWTqp0n4-unsplash" />
+                <link href="https://photos.chris-pierce.com/carrie-cronan-gxuqwtqp0n4-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-gxUqWTqp0n4-unsplash" />
                 <published></published>
                 <updated></updated>
-                <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-gxuqwtqp0n4-unsplash/</id>
-                <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-gxuqwtqp0n4-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" alt="carrie-cronan-gxUqWTqp0n4-unsplash" /></a></figure>
+                <id>https://photos.chris-pierce.com/carrie-cronan-gxuqwtqp0n4-unsplash/</id>
+                <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-gxuqwtqp0n4-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" alt="carrie-cronan-gxUqWTqp0n4-unsplash" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -111,16 +111,16 @@
                 <email>contact@chris-pierce.com</email>
                 <uri>https://chris-pierce.com</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" />
-                <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" />
+                <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-gxUqWTqp0n4-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">carrie-cronan-XNJdMuqtk70-unsplash</title>
-                  <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-xnjdmuqtk70-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-XNJdMuqtk70-unsplash" />
+                  <link href="https://photos.chris-pierce.com/carrie-cronan-xnjdmuqtk70-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-XNJdMuqtk70-unsplash" />
                   <published></published>
                   <updated></updated>
-                  <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-xnjdmuqtk70-unsplash/</id>
-                  <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-xnjdmuqtk70-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" alt="carrie-cronan-XNJdMuqtk70-unsplash" /></a></figure>
+                  <id>https://photos.chris-pierce.com/carrie-cronan-xnjdmuqtk70-unsplash/</id>
+                  <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-xnjdmuqtk70-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" alt="carrie-cronan-XNJdMuqtk70-unsplash" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -128,16 +128,16 @@
                   <email>contact@chris-pierce.com</email>
                   <uri>https://chris-pierce.com</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" />
-                  <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" />
+                  <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-XNJdMuqtk70-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
                     <title type="html">carrie-cronan-WJXrmlm3jmM-unsplash</title>
-                    <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-wjxrmlm3jmm-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-WJXrmlm3jmM-unsplash" />
+                    <link href="https://photos.chris-pierce.com/carrie-cronan-wjxrmlm3jmm-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-WJXrmlm3jmM-unsplash" />
                     <published></published>
                     <updated></updated>
-                    <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-wjxrmlm3jmm-unsplash/</id>
-                    <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-wjxrmlm3jmm-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" alt="carrie-cronan-WJXrmlm3jmM-unsplash" /></a></figure>
+                    <id>https://photos.chris-pierce.com/carrie-cronan-wjxrmlm3jmm-unsplash/</id>
+                    <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-wjxrmlm3jmm-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" alt="carrie-cronan-WJXrmlm3jmM-unsplash" /></a></figure>
                     ]]>
                   </content>
                   <author>
@@ -145,16 +145,16 @@
                     <email>contact@chris-pierce.com</email>
                     <uri>https://chris-pierce.com</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" />
-                    <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" />
+                    <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-WJXrmlm3jmM-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
                       <title type="html">carrie-cronan-RTGPNTdA13M-unsplash</title>
-                      <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-rtgpntda13m-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-RTGPNTdA13M-unsplash" />
+                      <link href="https://photos.chris-pierce.com/carrie-cronan-rtgpntda13m-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-RTGPNTdA13M-unsplash" />
                       <published></published>
                       <updated></updated>
-                      <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-rtgpntda13m-unsplash/</id>
-                      <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-rtgpntda13m-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" alt="carrie-cronan-RTGPNTdA13M-unsplash" /></a></figure>
+                      <id>https://photos.chris-pierce.com/carrie-cronan-rtgpntda13m-unsplash/</id>
+                      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-rtgpntda13m-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" alt="carrie-cronan-RTGPNTdA13M-unsplash" /></a></figure>
                       ]]>
                     </content>
                     <author>
@@ -162,16 +162,16 @@
                       <email>contact@chris-pierce.com</email>
                       <uri>https://chris-pierce.com</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" />
-                      <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" />
+                      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-RTGPNTdA13M-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
                         <title type="html">carrie-cronan-MLvJdczrwVw-unsplash</title>
-                        <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-mlvjdczrwvw-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-MLvJdczrwVw-unsplash" />
+                        <link href="https://photos.chris-pierce.com/carrie-cronan-mlvjdczrwvw-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-MLvJdczrwVw-unsplash" />
                         <published></published>
                         <updated></updated>
-                        <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-mlvjdczrwvw-unsplash/</id>
-                        <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-mlvjdczrwvw-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" alt="carrie-cronan-MLvJdczrwVw-unsplash" /></a></figure>
+                        <id>https://photos.chris-pierce.com/carrie-cronan-mlvjdczrwvw-unsplash/</id>
+                        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-mlvjdczrwvw-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" alt="carrie-cronan-MLvJdczrwVw-unsplash" /></a></figure>
                         ]]>
                       </content>
                       <author>
@@ -179,16 +179,16 @@
                         <email>contact@chris-pierce.com</email>
                         <uri>https://chris-pierce.com</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" />
-                        <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" />
+                        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-MLvJdczrwVw-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
                           <title type="html">carrie-cronan-LF9lu8XrWww-unsplash</title>
-                          <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-lf9lu8xrwww-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-LF9lu8XrWww-unsplash" />
+                          <link href="https://photos.chris-pierce.com/carrie-cronan-lf9lu8xrwww-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-LF9lu8XrWww-unsplash" />
                           <published></published>
                           <updated></updated>
-                          <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-lf9lu8xrwww-unsplash/</id>
-                          <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-lf9lu8xrwww-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" alt="carrie-cronan-LF9lu8XrWww-unsplash" /></a></figure>
+                          <id>https://photos.chris-pierce.com/carrie-cronan-lf9lu8xrwww-unsplash/</id>
+                          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-lf9lu8xrwww-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" alt="carrie-cronan-LF9lu8XrWww-unsplash" /></a></figure>
                           ]]>
                         </content>
                         <author>
@@ -196,16 +196,16 @@
                           <email>contact@chris-pierce.com</email>
                           <uri>https://chris-pierce.com</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" />
-                          <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" />
+                          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-LF9lu8XrWww-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
                             <title type="html">carrie-cronan-0F3NydDW98Q-unsplash</title>
-                            <link href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-0f3nyddw98q-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-0F3NydDW98Q-unsplash" />
+                            <link href="https://photos.chris-pierce.com/carrie-cronan-0f3nyddw98q-unsplash/" rel="alternate" type="text/html" title="carrie-cronan-0F3NydDW98Q-unsplash" />
                             <published></published>
                             <updated></updated>
-                            <id>https://electronsandstuff.github.io/photo-stream/carrie-cronan-0f3nyddw98q-unsplash/</id>
-                            <content type="html"><![CDATA[<figure><a href="https://electronsandstuff.github.io/photo-stream/carrie-cronan-0f3nyddw98q-unsplash/"><img src="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" alt="carrie-cronan-0F3NydDW98Q-unsplash" /></a></figure>
+                            <id>https://photos.chris-pierce.com/carrie-cronan-0f3nyddw98q-unsplash/</id>
+                            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/carrie-cronan-0f3nyddw98q-unsplash/"><img src="https://photos.chris-pierce.com/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" alt="carrie-cronan-0F3NydDW98Q-unsplash" /></a></figure>
                             ]]>
                           </content>
                           <author>
@@ -213,7 +213,7 @@
                             <email>contact@chris-pierce.com</email>
                             <uri>https://chris-pierce.com</uri>
                           </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" />
-                            <media:content medium="image" url="https://electronsandstuff.github.io/photo-stream/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" />
+                            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/carrie-cronan-0F3NydDW98Q-unsplash-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                           </feed>
