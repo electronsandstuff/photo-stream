@@ -18,7 +18,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-veoOmmy9VH0-unsplash','/carrie-cronan-veoommy9vh0-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -26,7 +25,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-veoOmmy9VH0-unsplash', '/carrie-cronan-veoommy9vh0-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-uw9aahmwp5k-unsplash" style="background-image: url('/photos/tint/carrie-cronan-uw9aaHMWp5k-unsplash-65ba1d.jpg')" title="carrie-cronan-uw9aaHMWp5k-unsplash">
@@ -43,7 +41,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-uw9aaHMWp5k-unsplash','/carrie-cronan-uw9aahmwp5k-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -51,7 +48,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-uw9aaHMWp5k-unsplash', '/carrie-cronan-uw9aahmwp5k-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-t4lmdpx1fby-unsplash" style="background-image: url('/photos/tint/carrie-cronan-t4lmDpX1fbY-unsplash-65ba1d.jpg')" title="carrie-cronan-t4lmDpX1fbY-unsplash">
@@ -68,7 +64,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-t4lmDpX1fbY-unsplash','/carrie-cronan-t4lmdpx1fby-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -76,7 +71,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-t4lmDpX1fbY-unsplash', '/carrie-cronan-t4lmdpx1fby-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-qvk-mpo4bfk-unsplash" style="background-image: url('/photos/tint/carrie-cronan-qvk_MpO4Bfk-unsplash-65ba1d.jpg')" title="carrie-cronan-qvk_MpO4Bfk-unsplash">
@@ -93,7 +87,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-qvk_MpO4Bfk-unsplash','/carrie-cronan-qvk-mpo4bfk-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -101,7 +94,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-qvk_MpO4Bfk-unsplash', '/carrie-cronan-qvk-mpo4bfk-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-iqn7auqq72i-unsplash" style="background-image: url('/photos/tint/carrie-cronan-iqN7Auqq72I-unsplash-65ba1d.jpg')" title="carrie-cronan-iqN7Auqq72I-unsplash">
@@ -118,7 +110,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-iqN7Auqq72I-unsplash','/carrie-cronan-iqn7auqq72i-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -126,7 +117,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-iqN7Auqq72I-unsplash', '/carrie-cronan-iqn7auqq72i-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-gxuqwtqp0n4-unsplash" style="background-image: url('/photos/tint/carrie-cronan-gxUqWTqp0n4-unsplash-65ba1d.jpg')" title="carrie-cronan-gxUqWTqp0n4-unsplash">
@@ -143,7 +133,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-gxUqWTqp0n4-unsplash','/carrie-cronan-gxuqwtqp0n4-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -151,7 +140,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-gxUqWTqp0n4-unsplash', '/carrie-cronan-gxuqwtqp0n4-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-xnjdmuqtk70-unsplash" style="background-image: url('/photos/tint/carrie-cronan-XNJdMuqtk70-unsplash-65ba1d.jpg')" title="carrie-cronan-XNJdMuqtk70-unsplash">
@@ -168,7 +156,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-XNJdMuqtk70-unsplash','/carrie-cronan-xnjdmuqtk70-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -176,7 +163,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-XNJdMuqtk70-unsplash', '/carrie-cronan-xnjdmuqtk70-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-wjxrmlm3jmm-unsplash" style="background-image: url('/photos/tint/carrie-cronan-WJXrmlm3jmM-unsplash-65ba1d.jpg')" title="carrie-cronan-WJXrmlm3jmM-unsplash">
@@ -193,7 +179,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-WJXrmlm3jmM-unsplash','/carrie-cronan-wjxrmlm3jmm-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -201,7 +186,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-WJXrmlm3jmM-unsplash', '/carrie-cronan-wjxrmlm3jmm-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-rtgpntda13m-unsplash" style="background-image: url('/photos/tint/carrie-cronan-RTGPNTdA13M-unsplash-65ba1d.jpg')" title="carrie-cronan-RTGPNTdA13M-unsplash">
@@ -218,7 +202,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-RTGPNTdA13M-unsplash','/carrie-cronan-rtgpntda13m-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -226,7 +209,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-RTGPNTdA13M-unsplash', '/carrie-cronan-rtgpntda13m-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-mlvjdczrwvw-unsplash" style="background-image: url('/photos/tint/carrie-cronan-MLvJdczrwVw-unsplash-65ba1d.jpg')" title="carrie-cronan-MLvJdczrwVw-unsplash">
@@ -243,7 +225,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-MLvJdczrwVw-unsplash','/carrie-cronan-mlvjdczrwvw-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -251,7 +232,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-MLvJdczrwVw-unsplash', '/carrie-cronan-mlvjdczrwvw-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-lf9lu8xrwww-unsplash" style="background-image: url('/photos/tint/carrie-cronan-LF9lu8XrWww-unsplash-65ba1d.jpg')" title="carrie-cronan-LF9lu8XrWww-unsplash">
@@ -268,7 +248,6 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-LF9lu8XrWww-unsplash','/carrie-cronan-lf9lu8xrwww-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -276,7 +255,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-LF9lu8XrWww-unsplash', '/carrie-cronan-lf9lu8xrwww-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 <li class="item " id="id-carrie-cronan-0f3nyddw98q-unsplash" style="background-image: url('/photos/tint/carrie-cronan-0F3NydDW98Q-unsplash-65ba1d.jpg')" title="carrie-cronan-0F3NydDW98Q-unsplash">
@@ -290,7 +268,6 @@ lazyload();
     <span>Previous</span>
   </a>
   <ul class="links top photodetail-links">
-    <li class="share"><a onClick="shareImage('carrie-cronan-0F3NydDW98Q-unsplash','/carrie-cronan-0f3nyddw98q-unsplash');" title="Share this photo">Share</a></li>
   </ul>
   <ul class="meta">
     <!--
@@ -298,7 +275,6 @@ lazyload();
         <li></li>
         <li><span class="aperture"><em>f</em>/</span></li>
         -->
-    <li><a onClick="shareImage('carrie-cronan-0F3NydDW98Q-unsplash', '/carrie-cronan-0f3nyddw98q-unsplash')" class="gridview-button share" title="Share this image">Share</a></li>
   </ul>
 </li>
 `);
