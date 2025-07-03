@@ -28,14 +28,6 @@ jobs:
           ruby-version: "3.1.2"
           bundler-cache: true
       
-      - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
-        with:
-          commitChange: false
-          valueFile: "_config.yml"
-          propertyPath: "giscus.repo"
-          value: ${{ github.repository }}
-      
       - name: Install system dependencies 📦
         run: |
           sudo apt-get update
