@@ -3,8 +3,8 @@
     <generator uri="https://github.com/waschinski/photo-stream">Photo Stream</generator>
     <link href="https://photos.chris-pierce.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="https://photos.chris-pierce.com" rel="alternate" type="text/html"/>
-    <updated>2025-07-03T08:29:59+00:00</updated>
-    <id>2025-07-03T08:29:59+00:00</id>
+    <updated>2025-07-09T05:51:23+00:00</updated>
+    <id>2025-07-09T05:51:23+00:00</id>
     <title type="html"><![CDATA[Christopher Pierce Photos]]></title>
     <subtitle><![CDATA[@electronsandstuff's photo stream.]]></subtitle>
     <author>
@@ -13,12 +13,12 @@
       <uri>https://chris-pierce.com</uri>
     </author>
     <entry>
-      <title type="html">share_DSCF7365</title>
-      <link href="https://photos.chris-pierce.com/share-dscf7365/" rel="alternate" type="text/html" title="share_DSCF7365" />
+      <title type="html">share_20250629_0021</title>
+      <link href="https://photos.chris-pierce.com/share-20250629-0021/" rel="alternate" type="text/html" title="share_20250629_0021" />
       <published></published>
       <updated></updated>
-      <id>https://photos.chris-pierce.com/share-dscf7365/</id>
-      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-dscf7365/"><img src="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" alt="share_DSCF7365" /></a></figure>
+      <id>https://photos.chris-pierce.com/share-20250629-0021/</id>
+      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20250629-0021/"><img src="https://photos.chris-pierce.com/photos/large/share_20250629_0021-686656.jpg" alt="share_20250629_0021" /></a></figure>
       ]]>
     </content>
     <author>
@@ -26,16 +26,16 @@
       <email>contact@chris-pierce.com</email>
       <uri>https://chris-pierce.com</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" />
-      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20250629_0021-686656.jpg" />
+      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20250629_0021-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">share_DSCF7206</title>
-        <link href="https://photos.chris-pierce.com/share-dscf7206/" rel="alternate" type="text/html" title="share_DSCF7206" />
+        <title type="html">share_DSCF7365</title>
+        <link href="https://photos.chris-pierce.com/share-dscf7365/" rel="alternate" type="text/html" title="share_DSCF7365" />
         <published></published>
         <updated></updated>
-        <id>https://photos.chris-pierce.com/share-dscf7206/</id>
-        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-dscf7206/"><img src="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" alt="share_DSCF7206" /></a></figure>
+        <id>https://photos.chris-pierce.com/share-dscf7365/</id>
+        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-dscf7365/"><img src="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" alt="share_DSCF7365" /></a></figure>
         ]]>
       </content>
       <author>
@@ -43,16 +43,16 @@
         <email>contact@chris-pierce.com</email>
         <uri>https://chris-pierce.com</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" />
-        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" />
+        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_DSCF7365-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">share_20250616_1179</title>
-          <link href="https://photos.chris-pierce.com/share-20250616-1179/" rel="alternate" type="text/html" title="share_20250616_1179" />
+          <title type="html">share_DSCF7206</title>
+          <link href="https://photos.chris-pierce.com/share-dscf7206/" rel="alternate" type="text/html" title="share_DSCF7206" />
           <published></published>
           <updated></updated>
-          <id>https://photos.chris-pierce.com/share-20250616-1179/</id>
-          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20250616-1179/"><img src="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" alt="share_20250616_1179" /></a></figure>
+          <id>https://photos.chris-pierce.com/share-dscf7206/</id>
+          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-dscf7206/"><img src="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" alt="share_DSCF7206" /></a></figure>
           ]]>
         </content>
         <author>
@@ -60,16 +60,16 @@
           <email>contact@chris-pierce.com</email>
           <uri>https://chris-pierce.com</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" />
-          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" />
+          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_DSCF7206-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
-            <title type="html">share_20250616_1117</title>
-            <link href="https://photos.chris-pierce.com/share-20250616-1117/" rel="alternate" type="text/html" title="share_20250616_1117" />
+            <title type="html">share_20250616_1179</title>
+            <link href="https://photos.chris-pierce.com/share-20250616-1179/" rel="alternate" type="text/html" title="share_20250616_1179" />
             <published></published>
             <updated></updated>
-            <id>https://photos.chris-pierce.com/share-20250616-1117/</id>
-            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20250616-1117/"><img src="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" alt="share_20250616_1117" /></a></figure>
+            <id>https://photos.chris-pierce.com/share-20250616-1179/</id>
+            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20250616-1179/"><img src="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" alt="share_20250616_1179" /></a></figure>
             ]]>
           </content>
           <author>
@@ -77,16 +77,16 @@
             <email>contact@chris-pierce.com</email>
             <uri>https://chris-pierce.com</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" />
-            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" />
+            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20250616_1179-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
-              <title type="html">share_20241125_0377</title>
-              <link href="https://photos.chris-pierce.com/share-20241125-0377/" rel="alternate" type="text/html" title="share_20241125_0377" />
+              <title type="html">share_20250616_1117</title>
+              <link href="https://photos.chris-pierce.com/share-20250616-1117/" rel="alternate" type="text/html" title="share_20250616_1117" />
               <published></published>
               <updated></updated>
-              <id>https://photos.chris-pierce.com/share-20241125-0377/</id>
-              <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241125-0377/"><img src="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" alt="share_20241125_0377" /></a></figure>
+              <id>https://photos.chris-pierce.com/share-20250616-1117/</id>
+              <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20250616-1117/"><img src="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" alt="share_20250616_1117" /></a></figure>
               ]]>
             </content>
             <author>
@@ -94,16 +94,16 @@
               <email>contact@chris-pierce.com</email>
               <uri>https://chris-pierce.com</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" />
-              <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" />
+              <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20250616_1117-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
-                <title type="html">share_20241123_0008</title>
-                <link href="https://photos.chris-pierce.com/share-20241123-0008/" rel="alternate" type="text/html" title="share_20241123_0008" />
+                <title type="html">share_20241125_0377</title>
+                <link href="https://photos.chris-pierce.com/share-20241125-0377/" rel="alternate" type="text/html" title="share_20241125_0377" />
                 <published></published>
                 <updated></updated>
-                <id>https://photos.chris-pierce.com/share-20241123-0008/</id>
-                <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241123-0008/"><img src="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" alt="share_20241123_0008" /></a></figure>
+                <id>https://photos.chris-pierce.com/share-20241125-0377/</id>
+                <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241125-0377/"><img src="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" alt="share_20241125_0377" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -111,16 +111,16 @@
                 <email>contact@chris-pierce.com</email>
                 <uri>https://chris-pierce.com</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" />
-                <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" />
+                <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241125_0377-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
-                  <title type="html">share_20241122_0211</title>
-                  <link href="https://photos.chris-pierce.com/share-20241122-0211/" rel="alternate" type="text/html" title="share_20241122_0211" />
+                  <title type="html">share_20241123_0008</title>
+                  <link href="https://photos.chris-pierce.com/share-20241123-0008/" rel="alternate" type="text/html" title="share_20241123_0008" />
                   <published></published>
                   <updated></updated>
-                  <id>https://photos.chris-pierce.com/share-20241122-0211/</id>
-                  <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241122-0211/"><img src="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" alt="share_20241122_0211" /></a></figure>
+                  <id>https://photos.chris-pierce.com/share-20241123-0008/</id>
+                  <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241123-0008/"><img src="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" alt="share_20241123_0008" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -128,16 +128,16 @@
                   <email>contact@chris-pierce.com</email>
                   <uri>https://chris-pierce.com</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" />
-                  <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" />
+                  <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241123_0008-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
-                    <title type="html">share_20241121_0362</title>
-                    <link href="https://photos.chris-pierce.com/share-20241121-0362/" rel="alternate" type="text/html" title="share_20241121_0362" />
+                    <title type="html">share_20241122_0211</title>
+                    <link href="https://photos.chris-pierce.com/share-20241122-0211/" rel="alternate" type="text/html" title="share_20241122_0211" />
                     <published></published>
                     <updated></updated>
-                    <id>https://photos.chris-pierce.com/share-20241121-0362/</id>
-                    <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241121-0362/"><img src="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" alt="share_20241121_0362" /></a></figure>
+                    <id>https://photos.chris-pierce.com/share-20241122-0211/</id>
+                    <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241122-0211/"><img src="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" alt="share_20241122_0211" /></a></figure>
                     ]]>
                   </content>
                   <author>
@@ -145,16 +145,16 @@
                     <email>contact@chris-pierce.com</email>
                     <uri>https://chris-pierce.com</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" />
-                    <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" />
+                    <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241122_0211-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
-                      <title type="html">share_20241116_0377</title>
-                      <link href="https://photos.chris-pierce.com/share-20241116-0377/" rel="alternate" type="text/html" title="share_20241116_0377" />
+                      <title type="html">share_20241121_0362</title>
+                      <link href="https://photos.chris-pierce.com/share-20241121-0362/" rel="alternate" type="text/html" title="share_20241121_0362" />
                       <published></published>
                       <updated></updated>
-                      <id>https://photos.chris-pierce.com/share-20241116-0377/</id>
-                      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241116-0377/"><img src="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" alt="share_20241116_0377" /></a></figure>
+                      <id>https://photos.chris-pierce.com/share-20241121-0362/</id>
+                      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241121-0362/"><img src="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" alt="share_20241121_0362" /></a></figure>
                       ]]>
                     </content>
                     <author>
@@ -162,16 +162,16 @@
                       <email>contact@chris-pierce.com</email>
                       <uri>https://chris-pierce.com</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" />
-                      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" />
+                      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241121_0362-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
-                        <title type="html">share_20241020_0408</title>
-                        <link href="https://photos.chris-pierce.com/share-20241020-0408/" rel="alternate" type="text/html" title="share_20241020_0408" />
+                        <title type="html">share_20241116_0377</title>
+                        <link href="https://photos.chris-pierce.com/share-20241116-0377/" rel="alternate" type="text/html" title="share_20241116_0377" />
                         <published></published>
                         <updated></updated>
-                        <id>https://photos.chris-pierce.com/share-20241020-0408/</id>
-                        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241020-0408/"><img src="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" alt="share_20241020_0408" /></a></figure>
+                        <id>https://photos.chris-pierce.com/share-20241116-0377/</id>
+                        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241116-0377/"><img src="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" alt="share_20241116_0377" /></a></figure>
                         ]]>
                       </content>
                       <author>
@@ -179,16 +179,16 @@
                         <email>contact@chris-pierce.com</email>
                         <uri>https://chris-pierce.com</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" />
-                        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" />
+                        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241116_0377-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
-                          <title type="html">share_20241020_0199</title>
-                          <link href="https://photos.chris-pierce.com/share-20241020-0199/" rel="alternate" type="text/html" title="share_20241020_0199" />
+                          <title type="html">share_20241020_0408</title>
+                          <link href="https://photos.chris-pierce.com/share-20241020-0408/" rel="alternate" type="text/html" title="share_20241020_0408" />
                           <published></published>
                           <updated></updated>
-                          <id>https://photos.chris-pierce.com/share-20241020-0199/</id>
-                          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241020-0199/"><img src="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" alt="share_20241020_0199" /></a></figure>
+                          <id>https://photos.chris-pierce.com/share-20241020-0408/</id>
+                          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241020-0408/"><img src="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" alt="share_20241020_0408" /></a></figure>
                           ]]>
                         </content>
                         <author>
@@ -196,16 +196,16 @@
                           <email>contact@chris-pierce.com</email>
                           <uri>https://chris-pierce.com</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" />
-                          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" />
+                          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241020_0408-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
-                            <title type="html">share_20240915_0487</title>
-                            <link href="https://photos.chris-pierce.com/share-20240915-0487/" rel="alternate" type="text/html" title="share_20240915_0487" />
+                            <title type="html">share_20241020_0199</title>
+                            <link href="https://photos.chris-pierce.com/share-20241020-0199/" rel="alternate" type="text/html" title="share_20241020_0199" />
                             <published></published>
                             <updated></updated>
-                            <id>https://photos.chris-pierce.com/share-20240915-0487/</id>
-                            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240915-0487/"><img src="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" alt="share_20240915_0487" /></a></figure>
+                            <id>https://photos.chris-pierce.com/share-20241020-0199/</id>
+                            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20241020-0199/"><img src="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" alt="share_20241020_0199" /></a></figure>
                             ]]>
                           </content>
                           <author>
@@ -213,16 +213,16 @@
                             <email>contact@chris-pierce.com</email>
                             <uri>https://chris-pierce.com</uri>
                           </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" />
-                            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" />
+                            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20241020_0199-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
-                              <title type="html">share_20240905_0053</title>
-                              <link href="https://photos.chris-pierce.com/share-20240905-0053/" rel="alternate" type="text/html" title="share_20240905_0053" />
+                              <title type="html">share_20240915_0487</title>
+                              <link href="https://photos.chris-pierce.com/share-20240915-0487/" rel="alternate" type="text/html" title="share_20240915_0487" />
                               <published></published>
                               <updated></updated>
-                              <id>https://photos.chris-pierce.com/share-20240905-0053/</id>
-                              <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240905-0053/"><img src="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" alt="share_20240905_0053" /></a></figure>
+                              <id>https://photos.chris-pierce.com/share-20240915-0487/</id>
+                              <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240915-0487/"><img src="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" alt="share_20240915_0487" /></a></figure>
                               ]]>
                             </content>
                             <author>
@@ -230,16 +230,16 @@
                               <email>contact@chris-pierce.com</email>
                               <uri>https://chris-pierce.com</uri>
                             </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" />
-                              <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" />
+                              <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240915_0487-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
                               <entry>
-                                <title type="html">share_20240901_0147</title>
-                                <link href="https://photos.chris-pierce.com/share-20240901-0147/" rel="alternate" type="text/html" title="share_20240901_0147" />
+                                <title type="html">share_20240905_0053</title>
+                                <link href="https://photos.chris-pierce.com/share-20240905-0053/" rel="alternate" type="text/html" title="share_20240905_0053" />
                                 <published></published>
                                 <updated></updated>
-                                <id>https://photos.chris-pierce.com/share-20240901-0147/</id>
-                                <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240901-0147/"><img src="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" alt="share_20240901_0147" /></a></figure>
+                                <id>https://photos.chris-pierce.com/share-20240905-0053/</id>
+                                <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240905-0053/"><img src="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" alt="share_20240905_0053" /></a></figure>
                                 ]]>
                               </content>
                               <author>
@@ -247,16 +247,16 @@
                                 <email>contact@chris-pierce.com</email>
                                 <uri>https://chris-pierce.com</uri>
                               </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" />
-                                <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" />
+                                <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240905_0053-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                 </entry>
                                 <entry>
-                                  <title type="html">share_20240901_0087</title>
-                                  <link href="https://photos.chris-pierce.com/share-20240901-0087/" rel="alternate" type="text/html" title="share_20240901_0087" />
+                                  <title type="html">share_20240901_0147</title>
+                                  <link href="https://photos.chris-pierce.com/share-20240901-0147/" rel="alternate" type="text/html" title="share_20240901_0147" />
                                   <published></published>
                                   <updated></updated>
-                                  <id>https://photos.chris-pierce.com/share-20240901-0087/</id>
-                                  <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240901-0087/"><img src="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" alt="share_20240901_0087" /></a></figure>
+                                  <id>https://photos.chris-pierce.com/share-20240901-0147/</id>
+                                  <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240901-0147/"><img src="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" alt="share_20240901_0147" /></a></figure>
                                   ]]>
                                 </content>
                                 <author>
@@ -264,16 +264,16 @@
                                   <email>contact@chris-pierce.com</email>
                                   <uri>https://chris-pierce.com</uri>
                                 </author>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" />
-                                  <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" />
+                                  <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240901_0147-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                   </entry>
                                   <entry>
-                                    <title type="html">share_20240829_0521</title>
-                                    <link href="https://photos.chris-pierce.com/share-20240829-0521/" rel="alternate" type="text/html" title="share_20240829_0521" />
+                                    <title type="html">share_20240901_0087</title>
+                                    <link href="https://photos.chris-pierce.com/share-20240901-0087/" rel="alternate" type="text/html" title="share_20240901_0087" />
                                     <published></published>
                                     <updated></updated>
-                                    <id>https://photos.chris-pierce.com/share-20240829-0521/</id>
-                                    <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0521/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" alt="share_20240829_0521" /></a></figure>
+                                    <id>https://photos.chris-pierce.com/share-20240901-0087/</id>
+                                    <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240901-0087/"><img src="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" alt="share_20240901_0087" /></a></figure>
                                     ]]>
                                   </content>
                                   <author>
@@ -281,16 +281,16 @@
                                     <email>contact@chris-pierce.com</email>
                                     <uri>https://chris-pierce.com</uri>
                                   </author>
-                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" />
-                                    <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" />
+                                    <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240901_0087-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                     </entry>
                                     <entry>
-                                      <title type="html">share_20240829_0497</title>
-                                      <link href="https://photos.chris-pierce.com/share-20240829-0497/" rel="alternate" type="text/html" title="share_20240829_0497" />
+                                      <title type="html">share_20240829_0521</title>
+                                      <link href="https://photos.chris-pierce.com/share-20240829-0521/" rel="alternate" type="text/html" title="share_20240829_0521" />
                                       <published></published>
                                       <updated></updated>
-                                      <id>https://photos.chris-pierce.com/share-20240829-0497/</id>
-                                      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0497/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" alt="share_20240829_0497" /></a></figure>
+                                      <id>https://photos.chris-pierce.com/share-20240829-0521/</id>
+                                      <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0521/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" alt="share_20240829_0521" /></a></figure>
                                       ]]>
                                     </content>
                                     <author>
@@ -298,16 +298,16 @@
                                       <email>contact@chris-pierce.com</email>
                                       <uri>https://chris-pierce.com</uri>
                                     </author>
-                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" />
-                                      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" />
+                                      <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0521-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                       </entry>
                                       <entry>
-                                        <title type="html">share_20240829_0456</title>
-                                        <link href="https://photos.chris-pierce.com/share-20240829-0456/" rel="alternate" type="text/html" title="share_20240829_0456" />
+                                        <title type="html">share_20240829_0497</title>
+                                        <link href="https://photos.chris-pierce.com/share-20240829-0497/" rel="alternate" type="text/html" title="share_20240829_0497" />
                                         <published></published>
                                         <updated></updated>
-                                        <id>https://photos.chris-pierce.com/share-20240829-0456/</id>
-                                        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0456/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" alt="share_20240829_0456" /></a></figure>
+                                        <id>https://photos.chris-pierce.com/share-20240829-0497/</id>
+                                        <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0497/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" alt="share_20240829_0497" /></a></figure>
                                         ]]>
                                       </content>
                                       <author>
@@ -315,16 +315,16 @@
                                         <email>contact@chris-pierce.com</email>
                                         <uri>https://chris-pierce.com</uri>
                                       </author>
-                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" />
-                                        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" />
+                                        <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0497-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                         </entry>
                                         <entry>
-                                          <title type="html">share_20240829_0164</title>
-                                          <link href="https://photos.chris-pierce.com/share-20240829-0164/" rel="alternate" type="text/html" title="share_20240829_0164" />
+                                          <title type="html">share_20240829_0456</title>
+                                          <link href="https://photos.chris-pierce.com/share-20240829-0456/" rel="alternate" type="text/html" title="share_20240829_0456" />
                                           <published></published>
                                           <updated></updated>
-                                          <id>https://photos.chris-pierce.com/share-20240829-0164/</id>
-                                          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0164/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" alt="share_20240829_0164" /></a></figure>
+                                          <id>https://photos.chris-pierce.com/share-20240829-0456/</id>
+                                          <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0456/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" alt="share_20240829_0456" /></a></figure>
                                           ]]>
                                         </content>
                                         <author>
@@ -332,16 +332,16 @@
                                           <email>contact@chris-pierce.com</email>
                                           <uri>https://chris-pierce.com</uri>
                                         </author>
-                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" />
-                                          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" />
+                                          <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0456-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                           </entry>
                                           <entry>
-                                            <title type="html">20240705_0053</title>
-                                            <link href="https://photos.chris-pierce.com/20240705-0053/" rel="alternate" type="text/html" title="20240705_0053" />
+                                            <title type="html">share_20240829_0164</title>
+                                            <link href="https://photos.chris-pierce.com/share-20240829-0164/" rel="alternate" type="text/html" title="share_20240829_0164" />
                                             <published></published>
                                             <updated></updated>
-                                            <id>https://photos.chris-pierce.com/20240705-0053/</id>
-                                            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/20240705-0053/"><img src="https://photos.chris-pierce.com/photos/large/20240705_0053-686656.jpg" alt="20240705_0053" /></a></figure>
+                                            <id>https://photos.chris-pierce.com/share-20240829-0164/</id>
+                                            <content type="html"><![CDATA[<figure><a href="https://photos.chris-pierce.com/share-20240829-0164/"><img src="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" alt="share_20240829_0164" /></a></figure>
                                             ]]>
                                           </content>
                                           <author>
@@ -349,7 +349,7 @@
                                             <email>contact@chris-pierce.com</email>
                                             <uri>https://chris-pierce.com</uri>
                                           </author>
-                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/20240705_0053-686656.jpg" />
-                                            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/20240705_0053-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" />
+                                            <media:content medium="image" url="https://photos.chris-pierce.com/photos/large/share_20240829_0164-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                             </entry>
                                           </feed>
